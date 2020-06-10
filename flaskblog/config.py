@@ -10,5 +10,5 @@ class Config:
     MAIL_USE_TLS = True
     # app.config['MAIL_USERNAME'] = os.environ.get('EMAIL')
     # app.config['MAIL_PASSWORD'] = os.environ.get('PASSWORD')
-    MAIL_USERNAME = 'a7mtoo133@gmail.com '
-    MAIL_PASSWORD = 'aftershake13?aftershake13?'
+    MAIL_USERNAME = 'thejoker@gmail.com'
+    MAIL_PASSWORD = 'batmansucks'
